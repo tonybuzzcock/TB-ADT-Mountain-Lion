@@ -1,0 +1,6 @@
+build/
+Tests/renders/
+Tests/adt_test
+Tests/preset_test
+Tests/vst_host_test
+Tests/*.so
